@@ -1,0 +1,13 @@
+authors:
+- Ansible
+dependencies: {}
+description: Bulk test collection tnsbabf21.tc7be2dfae (based on ansible.utils)
+license:
+- GPL-2.0-or-later
+name: tc7be2dfae
+namespace: tnsbabf21
+readme: README.md
+repository: https://github.com/test/tnsbabf21.tc7be2dfae
+tags:
+- networking
+version: 6.0.2
